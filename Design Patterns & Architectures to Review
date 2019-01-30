@@ -1,0 +1,41 @@
+Design Patterns & Architectures to Review:
+
+
+- design patterns and architechures are different but can be similar (do further research)
+
+Architectures
+> n-tier (3 tier) architecture
+> Onion
+> MVVM in MVC
+>MVC
+
+
+Design Pattern
+  1. Creational Design Patterns
+    * Factory Method
+    * Abstract Factory
+    * Builder
+    * Prototype
+    * Singleton
+    
+  2. Structural Design Patterns
+    * Adapter
+    * Bridge
+    * Composite
+    * Decorator
+    * Facade
+    * Flyweight
+    * Proxy
+    
+  3. Behavioral Design Patterns
+    * Chain of Responsibility
+    * Command
+    * Interpreter
+    * Iterator
+    * Mediator
+    * Memento
+    * Observer
+    * State
+    * Strategy
+    * Visitor
+    * Template Method
