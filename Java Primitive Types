@@ -1,0 +1,44 @@
+Java Primitive Types (or Simple Types) and Operators
+
+
+Simple types (PRIMITIVE TYPES)
+      - byte
+          * size: 8-bit
+          * range: -128 to 127
+          * default: 0
+          
+      - short
+          * size:
+          * range:
+          * default: 
+          
+      - int
+          * size:
+          * range:
+          * default: 
+          
+      - long
+          * size:
+          * range:
+          * default: 
+          
+      - float
+          * size:
+          * range:
+          * default: 
+          
+      - double
+          * size:
+          * range:
+          * default: 
+          
+      - boolean
+          * size:
+          * range:
+          * default: 
+          
+      - char
+          * size:
+          * range:
+          * default: 
+          
