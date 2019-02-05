@@ -1,0 +1,67 @@
+C# Primitive Types (or Simple Types) and Operators
+
+
+ Simple types (PRIMITIVE TYPES)
+        - int (signed)
+            * size: 32 bits
+            * range: -231 ro 231-1
+            * default value: 0
+            
+        - float
+        - boolean
+            * has 2 possible values: true or false
+            * default value: false
+            
+        - decimal
+        - sbyte (signed)
+            * size: 8 bits
+            * range: -128 to 127
+            * default: 0
+            
+        - short (signed)
+            * size: 16 bits
+            * range: -32,768 to 32,767
+            * default value: 0
+            
+        - long (signed)
+            * size: 64 bits
+            * range: -263 to 263-1
+            * default value: 0L (L represnts the LONG type)
+            
+        - byte (unsigned)
+            * size: 8 bits
+            * range: 0 to 255
+            * default value: 0
+            
+        - ushort (unsigned)
+            * size: 16 bits
+            * range: 0 to 65535
+            * default value: 0
+            
+        - uint (unsigned)
+            * size: 32 bits
+            * range: 0 to 323-1
+            * default size: 0
+            
+        - ulong (unsigned)
+            * size: 64 bits
+            * range: 0 to 264-1
+            * default value: 0
+            
+        - double (unsigned)
+        - char (unsigned)
+        
+        
+        
+        
+        
+######################################################
+Literals are the ACTUAL DATA that value types hold:
+
+int number = 41;
+
+int --> the type
+number --> the variable
+= --> the operator
+41 --> the literal 
+######################################################
