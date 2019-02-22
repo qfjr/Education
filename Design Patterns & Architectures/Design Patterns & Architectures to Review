@@ -12,17 +12,17 @@ Architectures
 
 Design Pattern
   1. Creational Design Patterns
-    * Factory Method
+    * Factory Method [ ]
     * Abstract Factory
     * Builder
-    * Prototype
-    * Singleton
+    * Prototype [ ]
+    * Singleton [ ]
     
   2. Structural Design Patterns
-    * Adapter
+    * Adapter [ ]
     * Bridge
     * Composite
-    * Decorator
+    * Decorator [ ]
     * Facade
     * Flyweight
     * Proxy
@@ -31,9 +31,9 @@ Design Pattern
     * Chain of Responsibility
     * Command
     * Interpreter
-    * Iterator
-    * Mediator
-    * Memento
+    * Iterator [ ]
+    * Mediator [ ]
+    * Memento [ ]
     * Observer
     * State
     * Strategy
