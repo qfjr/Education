@@ -1,0 +1,40 @@
+Azure Fundamentals Microsoft Learning Paths
+
+(This is microsofts learning paths on getting the fundamentals to Azure)
+
+
+(1) cloud concepts - principles of cloud computing
+(2) core cloud services - introduction to Azure
+(3) core cloud services - azure architecture and service guarantees
+(4) create an azure account
+(5) core cloud services - manage services with the azure portal
+(6) core cloud services - azure compute options
+(7) core cloud services - azure data storage options
+(8) core cloud services - azure networking options
+(9) security, responsibility and trust in Azure
+(10) apply and monitor infrastructure standards with azure policy
+(11) control and organize azure resources with azure resource manager
+(12) predict costs and optimize spending for Azure
+
+
+
+
+==================================================================================
+==================================================================================
+
+Azure Developers Concepts (from the Azure Developer Guide eBook)
+
+I. Hosting your Application
+  -azure virtual machines
+  -azure app service
+    >web app
+    >web app for containers
+    >mobile app
+  -azure functions
+  -azure logic apps
+  -containers
+    >host containers with azure container instances
+    >scale and ochestrate containers with azure kubernets service
+    
+   -azure batch
+   -azure service fabric
