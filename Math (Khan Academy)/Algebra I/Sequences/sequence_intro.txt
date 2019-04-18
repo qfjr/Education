@@ -1,0 +1,10 @@
+Sequence Intro
+#####################################################
+- a sequence is an ordered list of numbers
+
+- example of a FINTIE sequence (always increasing by 3):
+{ 1, 4, 7, 10 } (4 term FINITE sequence)
+
+- example of an INFINITE sequence (always increasing by 4):
+{ 3, 7, 11, 15...}
+#####################################################
