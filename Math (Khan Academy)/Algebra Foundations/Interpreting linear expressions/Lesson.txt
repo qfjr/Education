@@ -1,0 +1,21 @@
+Interpreting linear expressions
+#############################################################
+1. Interpreting linear expressions: diamonds
+====================================
+Question: Handsome Jack is buying a pony made of diamonds. The price of the pony is "P" dollars, and
+Jack also has to pay a 25% diamond pony tax
+
+total = P(0.25) + P
+
+Match the expressions tot heir meaning for Handsome Jack
+- the price of the diamond ony before tax: [P]
+
+- the amount of tax handsome Jack pays: [ 0.25(P) ]
+
+- handsome jacks total bill for te diamond pony: [ P + 0.25P ]
+====================================
+
+2. Interpreting linear expressions: flowers
+====================================
+====================================
+#############################################################
