@@ -1,0 +1,30 @@
+Data Structures and Algortithms List
+
+
+Data Structures:
+- arrays
+- linked list
+- stacks
+- queues
+- binary trees
+- heaps
+- hash table
+
+
+
+Algorithms
+- recursion
+- dynamic programming
+- hashing
+- sort algorithms:
+  > merge sort
+  > quick sort
+  > bucket sort
+  > heap sort
+  > counting sort
+  
+- search algorithms:
+  > binary search
+  > depth/breadth first search (in GRAPH data structures)(Look for GRAPHS in EPI)
+  
+- regular expressions (REGEX)
