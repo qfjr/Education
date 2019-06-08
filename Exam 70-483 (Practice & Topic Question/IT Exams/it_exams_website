@@ -1,0 +1,38 @@
+IT Exams 70-483 Practice Questions (total questions 242)
+
+https://www.itexams.com/exam/70-483
+
+
+
+##############################################################################
+Questions I got Wrong and Questions I need to Review
+
+=====================================
+Page 1 (questions 1-15)
+
+1. how does the THROW keyword work?
+2. in the below code snippet the DoWork() method must no throw any exceptions when converting
+the obj object to the IDataContainer interface or when accessing the Data property
+
+which choice should we use?:
+A. var dataContainer = (IDataContainer)obj;
+B. dynamic dataContainer = obj;
+C. var dataContainer = obj is IDataContainer;
+D. var dataContainer = obj as IDataContainer;
+
+Answer: D --> "as" the as operator is like a cast operation. However if the conversion isnt possible, as
+returns null instead of rasing an exception
+3.
+4. the order of how exceptions are called when you have custom exceptions
+5. 
+6. In the below code we need to ensure that the debugger breaks execution w/i the CalculateInterest() method
+when the loanAmount variable is less than or equal to zero in ALL BUILDS of the application (NOTE*** reseasrch different
+build types in .net) which option do we choice:
+A. Insert the following code segment at line 03: Trace.Assert(loanAmount > 0);
+B. Insert the following code segment at line 03: Debug.Assert(loanAmount > 0);
+C. Insert the following code segment at line 05: Debug.Write(loanAmount > 0);
+D. Insert the following code segment at line 05: Trace.Write(loanAmount > 0);
+
+Answer: A --> research Trace.Assert [ Debug.Assert(), Debug.Write(), Trace.Write() ] 
+=====================================
+##############################################################################
