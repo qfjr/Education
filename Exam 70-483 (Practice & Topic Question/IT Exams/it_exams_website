@@ -34,5 +34,17 @@ C. Insert the following code segment at line 05: Debug.Write(loanAmount > 0);
 D. Insert the following code segment at line 05: Trace.Write(loanAmount > 0);
 
 Answer: A --> research Trace.Assert [ Debug.Assert(), Debug.Write(), Trace.Write() ] 
+7.
+8.
+9.
+
+
+
+
+
+
+
+
+
 =====================================
 ##############################################################################
