@@ -1,0 +1,1 @@
+The purpose of this folder is to record the different C# concepts we learned mostly from the questions we got wrong in the ITEXAMS website.
