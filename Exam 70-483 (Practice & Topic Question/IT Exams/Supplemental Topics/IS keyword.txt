@@ -1,0 +1,33 @@
+- The "is" operator is used to check if (the run-time type) type or object is compatible with the given type or not
+- the operator is a BOOLEAN type
+- it returns true if the given object is of the same type or false if the given object is not of the same type
+
+#####################################################
+CODE EXAMPLES:
+
+
+public class P { }
+
+public class P1: P { }
+
+public class P2 { } 
+
+
+public class BLAH
+{
+  public statuc void Main()
+  {
+    P obj1 = new P();
+    
+    P1 obj2 = new P1();
+    
+    Console.WriteLine(obj1 is P); // this will return true
+    Console.WriteLine(obj1 is Object) // this will return true
+    Console.WriteLine(obj2 is P1); // this will return true
+    Console.WriteLine(obj2 is Object); // this will return true
+    Console.WriteLine(obj2 is P1); // true
+    Console.WriteLine(obj1 is P2); // false
+    Console.WriteLine(obj2 is P2); // false
+  }
+}
+#####################################################
