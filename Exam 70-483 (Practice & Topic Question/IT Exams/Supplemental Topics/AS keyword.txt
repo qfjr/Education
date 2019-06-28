@@ -14,7 +14,7 @@ public class Y { };
 public class Z { };
 
 
-public BLAHH
+public class BLAHH
 {
   public static void Main()
   {
@@ -35,9 +35,19 @@ public BLAHH
       // checking for the result
       if (str1 != null)
       {
-        
+        Console.WriteLine("'" + str1 + "'");
+      }
+      else
+      {
+        Console.WriteLine("Is not a string");
       }
     }
+    
+    // 0:Is not a string
+    // 1:Is not a string
+    // 2:'Hello'
+    // 3:Is not a string
+    // 4:Is not a string
   }
 }
 #################################################
