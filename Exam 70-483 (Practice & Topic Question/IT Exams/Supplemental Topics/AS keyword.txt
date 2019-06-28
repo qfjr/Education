@@ -1,0 +1,43 @@
+- the "as" operator is used to perform conversion b/t compatible REFERENCE TYPES or NULLABLE TYPES(nullable type is a value type)
+- it is not a boolean type like the "is" keyword
+- it will return the object when they are compatible with the given type
+- it will return NULL (no exception) if the conversion is not possible
+
+
+
+#################################################
+CODE EXAMPLES:
+
+
+
+public class Y { };
+public class Z { };
+
+
+public BLAHH
+{
+  public static void Main()
+  {
+    object[] objectArray = new object[5];
+    objectArray[0] = new Y();
+    objectArray[1] = new Z();
+    objectArray[2] = "Hello"; 
+    objectArray[3] = 4759.0;
+    objectArray[4] = null;
+    
+    for (int q = 0; q < objectArray.Length; ++q)
+    {
+      // using as operator
+      string str1 = objectArray[q] as string;
+      
+      Console.Write($"{q}:");
+      
+      // checking for the result
+      if (str1 != null)
+      {
+        
+      }
+    }
+  }
+}
+#################################################
