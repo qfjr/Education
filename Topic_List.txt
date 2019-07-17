@@ -12,6 +12,7 @@ Overview of Programming Skills Topics
 - EPI
 - 70-483 c# cert practice exams
 - time complexity analysis
+  |-> personal notes in Apple notes (transfer to github)
 - math
 - hacker rank
 - leetcode
