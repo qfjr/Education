@@ -1,0 +1,17 @@
+Overview of Programming Skills Topics
+
+
+- cSharp
+  |-> ReturnBlog c# 70-483 exam study by Roberto Rabasco
+  |-> peronal notes from VS projects and notes in Apple notes
+   
+- java
+- azure
+- data structures
+- algortihms
+- EPI
+- 70-483 c# cert practice exams
+- time complexity analysis
+- math
+- hacker rank
+- leetcode
